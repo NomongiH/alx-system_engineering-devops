@@ -1,0 +1,21 @@
+Shell, I/O Redirections and filters
+
+Task 0 - Hello World
+A script that prints “Hello, World”, followed by a new line to the standard output.
+
+Task 1 - Confused smiley
+A script that displays a confused smiley "(Ôo)'.
+
+Task 2 - display a file
+Display the content of the /etc/passwd file.
+
+Task 3 - What about 2?
+Display the content of /etc/passwd and /etc/hosts
+Note that this file is consulted directly only when the system is running
+in single-user mode. At other times this information is provided by
+Open Directory.
+See the opendirectoryd(8) man page for additional information about
+Open Directory
+
+Task 4 - Last lines of a file
+Display the last 10 lines of /etc/passwd
